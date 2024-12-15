@@ -1,3 +1,5 @@
 ﻿  Vectortri.cpp
-C:\Users\Dell\source\repos\Vectortri\Vectortri\Vectortri.cpp(63,47): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Dell\source\repos\Vectortri\Vectortri\Vectortri.cpp(32,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Dell\source\repos\Vectortri\Vectortri\Vectortri.cpp(75,15): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\Dell\source\repos\Vectortri\Vectortri\Vectortri.cpp(125,47): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
   Vectortri.vcxproj -> C:\Users\Dell\source\repos\Vectortri\x64\Debug\Vectortri.exe
