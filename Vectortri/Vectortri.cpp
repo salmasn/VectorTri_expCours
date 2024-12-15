@@ -112,7 +112,7 @@ int main()
 
     auto debut_insert_reorganise = high_resolution_clock::now();
 
-    for (int i = 0; i < 1000; i++)
+    for (int i = 0; i < 100000; i++)
     {
         vectorBase.push_back(rand() % 100);
     }
